@@ -20,17 +20,6 @@
 
 <hr/>
 
-<h2 align="center">Videolar</h2>
-
-- <a href="https://www.youtube.com/watch?v=lTxSxwwWNH0&ab_channel=OzanTekin"> Em ve Rem Arasındaki Fark </a>
-- <a href="https://www.youtube.com/watch?v=KnzVdK4eDpw&ab_channel=OzanTekin"> CSS ile Div Ortalama (3 Yöntem) </a>
-- <a href="https://www.youtube.com/watch?v=EgjtWY9iZ-Y&ab_channel=OzanTekin"> lienar-gradient nedir (Renk Geçişi) </a>
-- <a href="https://www.youtube.com/watch?v=2BWChl99r_Y&ab_channel=OzanTekin"> CSS transform </a>
-- <a href=""> </a>
-- <a href=""> </a>
-
-<hr/>
-
 <h2 align="center">Examples of works</h2>
 
 - <a href="https://codepen.io/TurkAysenur/pen/LYRKpWe"> Kaykay Video Platformu </a>
