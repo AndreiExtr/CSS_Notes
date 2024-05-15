@@ -17,8 +17,6 @@
 - <a href="https://github.com/ozantekin/CSS-Special-Notes/blob/main/CheatSheet/06-AlignSelf.png"> Align Self </a>
 - <a href="https://github.com/ozantekin/CSS-Special-Notes/blob/main/CheatSheet/08-NthChild.png"> nth-child </a>
 
-###### Eklemeler ile güncel tutmaya çalışacağım.
-
 
 <hr/>
 
@@ -30,9 +28,6 @@
 - <a href=""> </a>
 - <a href=""> </a>
 
-###### Eklemeler ile güncel tutmaya çalışacağım.
-
-
 <hr/>
 
 <h2 align="center">Videolar</h2>
@@ -43,9 +38,6 @@
 - <a href="https://www.youtube.com/watch?v=2BWChl99r_Y&ab_channel=OzanTekin"> CSS transform </a>
 - <a href=""> </a>
 - <a href=""> </a>
-
-###### Eklemeler ile güncel tutmaya çalışacağım.
-
 
 <hr/>
 
@@ -63,8 +55,6 @@
 - <a href="https://codepen.io/aybukeceylan/pen/yLOxRyG"> Dosya Paylaşımı Web Uygulaması </a>
 - <a href="">  </a>
 - <a href="">  </a>
-
-###### Eklemeler ile güncel tutmaya çalışacağım.
 
 <hr/>
 
@@ -94,9 +84,6 @@
 - <a href=""> </a>
 - <a href=""> </a>
 
-###### Eklemeler ile güncel tutmaya çalışacağım.
-
-
 <hr/>
 
 <h2 align="center">Generators</h2>
@@ -112,7 +99,5 @@
 - <a href="https://css3gen.com/text-shadow/">Text Shadow Generator </a>
 - <a href=""> </a>
 - <a href=""> </a>
-
-###### Eklemeler ile güncel tutmaya çalışacağım.
 
 <hr/>
