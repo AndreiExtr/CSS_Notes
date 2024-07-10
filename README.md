@@ -20,6 +20,14 @@
 
 <hr/>
 
+<h2 align="center">Animation</h2>
+
+- <a href="https://animista.net/play/basic/"> CSS Animation </a>
+- <a href=""> </a>
+- <a href=""> </a>
+
+<hr/>
+
 <h2 align="center">Examples of works</h2>
 
 - <a href="https://codepen.io/TurkAysenur/pen/LYRKpWe"> Kaykay Video Platformu </a>
