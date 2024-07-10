@@ -75,7 +75,6 @@
 - <a href="https://getcssscan.com/css-box-shadow-examples"> CSS Scan Generator</a>
 - <a href="https://hype4.academy/tools/glassmorphism-generator">  Glassmorphism Generator </a>
 - <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator </a>
-- <a href="https://css3gen.com/text-shadow/">Text Shadow Generator </a>
 - <a href=""> </a>
 - <a href=""> </a>
 
