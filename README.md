@@ -87,3 +87,7 @@
 - <a href=""> </a>
 
 <hr/>
+
+<h2 align="center">Browser support</h2>
+
+- <a href="https://caniuse.com/"> Support tables </a>
