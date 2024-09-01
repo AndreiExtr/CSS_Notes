@@ -24,7 +24,13 @@
 
 - <a href="https://animista.net/play/basic/"> CSS Animation </a>
 - <a href="https://animate.style/">Animate.css</a>
-- <a href=""> </a>
+- <a href="https://elrumordelaluz.github.io/csshake/">CSShake</a>
+- <a href="https://ianlunn.github.io/Hover/">Hover.css</a>
+- <a href="https://svgartista.net/">SVG Artista</a>
+- <a href="https://cssloaders.github.io/">CSS Loaders & Spinners</a>
+- <a href="https://motion.dev/">Motion One</a>
+- <a href="https://sarthology.github.io/Animatopy/">Animatopy</a>
+- <a href="https://jonsuh.com/hamburgers/">Hamburgers</a>
 
 <hr/>
 
