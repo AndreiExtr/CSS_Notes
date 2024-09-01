@@ -13,6 +13,22 @@
 
 <hr/>
 
+<h2 align="center">Generators</h2>
+
+- <a href="https://loading.io/flexbox/"> Flexbox Generator </a>
+- <a href="https://box-shadow.dev/"> Bov Shadow </a>
+- <a href="https://www.colorffy.com/css-generator"> CSS Generator</a>
+- <a href="https://grid.layoutit.com/">Grid Generator </a>
+- <a href="https://neumorphism.io">Neumorphism Generator </a>
+- <a href="https://gradientbuttons.colorion.co/"> Gradient Button Generator </a>
+- <a href="https://getcssscan.com/css-box-shadow-examples"> CSS Scan Generator</a>
+- <a href="https://hype4.academy/tools/glassmorphism-generator">  Glassmorphism Generator </a>
+- <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator </a>
+- <a href="https://tools.webdevpuneet.com/">DevTools</a>
+- <a href=""> </a>
+
+<hr/>
+
 <h2 align="center">Cheat Sheet</h2>
 
 - <a href="https://github.com/ozantekin/CSS-Special-Notes/blob/main/CheatSheet/00-BoxModel.png"> Box Model </a>
@@ -83,21 +99,6 @@
 - <a href="https://codepen.io/una/pen/NxZaNr"> Pure CSS (Sass) Carnival Game </a>
 - <a href="http://victordarras.fr/cssgame/"> CSS Game </a>
 - <a href=""> </a>
-- <a href=""> </a>
-
-<hr/>
-
-<h2 align="center">Generators</h2>
-
-- <a href="https://loading.io/flexbox/"> Flexbox Generator </a>
-- <a href="https://www.colorffy.com/css-generator"> CSS Generator</a>
-- <a href="https://grid.layoutit.com/">Grid Generator </a>
-- <a href="https://neumorphism.io">Neumorphism Generator </a>
-- <a href="https://gradientbuttons.colorion.co/"> Gradient Button Generator </a>
-- <a href="https://getcssscan.com/css-box-shadow-examples"> CSS Scan Generator</a>
-- <a href="https://hype4.academy/tools/glassmorphism-generator">  Glassmorphism Generator </a>
-- <a href="https://9elements.github.io/fancy-border-radius/">Fancy Border Radius Generator </a>
-- <a href="https://tools.webdevpuneet.com/">DevTools</a>
 - <a href=""> </a>
 
 <hr/>
