@@ -23,7 +23,7 @@
 <h2 align="center">Animation</h2>
 
 - <a href="https://animista.net/play/basic/"> CSS Animation </a>
-- <a href=""> </a>
+- <a href="https://animate.style/">Animate.css</a>
 - <a href=""> </a>
 
 <hr/>
