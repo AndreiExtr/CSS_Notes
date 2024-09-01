@@ -36,7 +36,7 @@
 - <a href="https://codepen.io/aybukeceylan/pen/OJRNbZp"> Proje Yönetimi Panosu Kullanıcı Arayüzü </a>
 - <a href="https://codepen.io/TurkAysenur/pen/RwWKYMO"> Responsive Sosyal Platform Kullanıcı Arayüzü </a>
 - <a href="https://codepen.io/TurkAysenur/pen/NWRqoyL"> CodePen Home Customer Management UI </a>
-- <a href="https://codepen.io/aaronmcg/pen/GRjaRva"> Görev Yönetimi Kullanıcı Arayüzü </a>
+- <a href="https://codepen.io/aaronmcg/pen/GRjaRva"> Task Management UI </a>
 - <a href="https://codepen.io/TurkAysenur/pen/QWyPMgq"> CSS Grid Görev Yöneticisi Kullanıcı Arayüzü </a>
 - <a href="https://codepen.io/TurkAysenur/pen/jOqdNbm"> İş Arama Platformu Kullanıcı Arayüzü </a>
 - <a href="https://codepen.io/aybukeceylan/pen/yLOxRyG"> Dosya Paylaşımı Web Uygulaması </a>
