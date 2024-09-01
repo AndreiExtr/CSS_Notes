@@ -2,6 +2,14 @@
  <img  src="https://skillicons.dev/icons?i=css" />
 </p>
 <p align="center"> The resources I've used to fix my CSS flaws, the research I've done, and the cheat sheets I've prepared can be found here. </p>
+<hr/>
+
+<h2 align="center">CSS Methodologies</h2>
+
+- <a href="https://getbem.com/">BEM</a>
+- <a href="https://acss.io/">Atomic CSS</a>
+- <a href="https://cube.fyi/">CUBE</a>
+- <a href="https://ru.bem.info/methodology/">Методология</a>
 
 <hr/>
 
