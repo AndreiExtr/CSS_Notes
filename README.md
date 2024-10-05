@@ -16,7 +16,7 @@
 <h2 align="center">Generators</h2>
 
 - <a href="https://loading.io/flexbox/"> Flexbox Generator </a>
-- <a href="https://box-shadow.dev/"> Bov Shadow </a>
+- <a href="https://active-vision.ru/icon/box-shadow/"> Bov Shadow and Gradient </a>
 - <a href="https://www.colorffy.com/css-generator"> CSS Generator</a>
 - <a href="https://grid.layoutit.com/">Grid Generator </a>
 - <a href="https://neumorphism.io">Neumorphism Generator </a>
